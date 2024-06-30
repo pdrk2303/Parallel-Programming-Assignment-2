@@ -1,0 +1,2 @@
+For subtask1 and subtask2, our code will run as mentioned on piazza.
+For subtask3 and subtask4, we have assumed that the makefile will run preprocessing.py file which will pre-process the images and store the corresponding matrices in the pre-proc-img folder in the form of txt files and the code will run as mentioned on piazza. No matter what the filenames are or the number of files are in the img folder or pre-proc-img folder, we have first scanned through the folder, stored all the filenames of the various txt files and then read them into the input matrices.
